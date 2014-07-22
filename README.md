@@ -1,4 +1,4 @@
 hello-siri
 ==========
 
-My first repository on github
+I love playing guitar, reading novels
